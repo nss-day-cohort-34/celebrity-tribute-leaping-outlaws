@@ -1,0 +1,6 @@
+.jb_footer {
+    display: flex;
+    list-style-type: none;
+    align-items: flex-end;
+    background-color: gray;
+}
