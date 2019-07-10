@@ -12,37 +12,19 @@ h1 {
    list-style-type: none;
 }
 
-.career__intro {
+.career__section {
    background-color: skyblue;
    opacity: 0.9;
    margin: 20px;
    padding: 5px;
 }
 
-.career__skills {
-   background-color: skyblue;
-   opacity: 0.9;
-   margin: 20px;
-   padding: 5px;   
+.career__works ul {
+   display: flex;
+   justify-content: space-between;
 }
 
-.career__works {
-   background-color: skyblue;
-   opacity: 0.9;
-   margin: 20px;
-   padding: 5px;
-}
-
-.career__places {
-   background-color: skyblue;
-   opacity: 0.9;
-   margin: 20px;
-   padding: 5px;
-}
-
-.career__collaborators {
-   background-color: skyblue;
-   opacity: 0.9;
-   margin: 20px;
-   padding: 5px;
+.career__works ul li {
+   list-style-type: none;
+   text-align: center;
 }
