@@ -1,3 +1,8 @@
+h1 {
+   text-align: center;
+   font-size: 40pt;
+}
+
 .jb_footer_container {
    border: 1px solid gray;
 }
@@ -6,4 +11,33 @@
    display: flex;
    justify-content: space-evenly;
    list-style-type: none;
+}
+
+.career__section {
+   background-color: skyblue;
+   opacity: 0.9;
+   margin: 20px;
+   padding: 5px;
+   border: 5px solid goldenrod;
+}
+
+.career__section h3 {
+   text-align: center;
+   font-size: 24pt;
+}
+
+.career__works ul {
+   display: flex;
+   justify-content: space-between;
+}
+
+
+.career__works ul li {
+   list-style-type: none;
+   text-align: center;
+}
+
+.career__works ul li img {
+   height: 250px;
+   width: 250px;
 }
