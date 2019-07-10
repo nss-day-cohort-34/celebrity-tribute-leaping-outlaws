@@ -28,6 +28,7 @@ h1 {
 /* Remove extra left and right margins, due to padding in columns */
 .row {
   margin: 0 -5px;
+  padding-bottom: 15px;
 }
 
 /* Clear floats after the columns */
@@ -45,6 +46,21 @@ h1 {
   background-color: skyblue;
   border: 2px solid goldenrod;
   opacity: 0.8;
+}
+.box {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 25px;
+  flex-direction: column;
+  align-items: center;
+}
+.items {
+  background-color: skyblue;
+  border: 2px solid goldenrod;
+  width: 25%;
+  height: 45%;
+  padding: 15px;
+  text-align: center;
 }
 
 /* end of styles */

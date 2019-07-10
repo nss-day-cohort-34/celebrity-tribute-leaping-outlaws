@@ -19,6 +19,7 @@ body {
   width: 5%;
   float: right;
   border-radius: 10%;
+  min-width: 42px;
 }
 .navbar_list {
   list-style-type: none;
