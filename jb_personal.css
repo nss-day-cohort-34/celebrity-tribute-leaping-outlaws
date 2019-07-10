@@ -1,0 +1,55 @@
+.jb_footer_container {
+    border: 1px solid gray;
+}
+
+
+.jb_footer_index {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.jb_early_life {
+    text-align: center;
+}
+
+.jb_early_years {
+    padding: 20px;
+}
+
+.jb_img_early_years {
+    height: 300px;
+    width: 300px;
+    border: 10px solid goldenrod;
+    border-radius: 100px;
+}
+
+.jb_img_havana_daydreaming {
+    height: 300px;
+    width: 300px;
+    border: 10px solid goldenrod;
+    border-radius: 100px;
+}
+
+.jb_family_life {
+    text-align: center;
+    padding: 50px;
+}
+
+.jb_img_family_life {
+    height: 400px;
+    width: 400px;  
+    border: 10px solid goldenrod;
+    border-radius: 60px;
+}
+
+.jb_early_years_text {
+    border: 5px solid aquamarine;
+    border-radius: 30px;
+    background-color: goldenrod;
+}
+
+.jb_early_years_text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px
+}
