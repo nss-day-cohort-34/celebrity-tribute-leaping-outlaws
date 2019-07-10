@@ -1,3 +1,7 @@
+h1 {
+   text-align: center;
+}
+
 .jb_footer_container {
    border: 1px solid gray;
 }
@@ -6,4 +10,39 @@
    display: flex;
    justify-content: space-evenly;
    list-style-type: none;
+}
+
+.career__intro {
+   background-color: skyblue;
+   opacity: 0.9;
+   margin: 20px;
+   padding: 5px;
+}
+
+.career__skills {
+   background-color: skyblue;
+   opacity: 0.9;
+   margin: 20px;
+   padding: 5px;   
+}
+
+.career__works {
+   background-color: skyblue;
+   opacity: 0.9;
+   margin: 20px;
+   padding: 5px;
+}
+
+.career__places {
+   background-color: skyblue;
+   opacity: 0.9;
+   margin: 20px;
+   padding: 5px;
+}
+
+.career__collaborators {
+   background-color: skyblue;
+   opacity: 0.9;
+   margin: 20px;
+   padding: 5px;
 }
